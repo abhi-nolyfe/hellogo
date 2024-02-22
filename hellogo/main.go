@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/abhi-nolyfe/mystrings"
+	"github.com/abhi-nolyfe/hellogo/mystrings"
 )
 
 func main() {
